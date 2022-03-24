@@ -1,0 +1,3 @@
+FROM jeffail/benthos@sha256:b50089c80d9aeca7377fdaad8ebdf30bb7ee223c52a498a2a9dc4463359c108d
+COPY docker/benthos.yaml /
+# vim: set filetype=dockerfile:
